@@ -3827,6 +3827,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BQ25172DSGR"
+			(at 88.9 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "670895bf-744c-48ea-ae4e-d1c031e784d9")
 		)
@@ -3987,6 +3996,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "MF52A103J3435 (A1) "
+			(at 69.85 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f87c26d-3fa8-4a3c-a1dc-e569bd24792d")
 		)
@@ -4007,7 +4025,7 @@
 		(at 71.12 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4119,6 +4137,15 @@
 			)
 		)
 		(property "Description" "1.2A Id, 60V Vds, 480mOhm Rds, N-Channel HEXFET Power MOSFET, SOT-23"
+			(at 160.02 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "IRLML2803TRPBF"
 			(at 160.02 74.93 0)
 			(effects
 				(font
@@ -4744,6 +4771,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LTST-S326KGJRKT"
+			(at 160.02 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83fc77f2-4e9f-4ba8-9dc7-de9dbf053cdc")
 		)
@@ -4767,7 +4803,7 @@
 		(at 77.47 80.01 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8bdc852c-bffe-4784-b8e2-997312723365")
@@ -4834,7 +4870,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4946,6 +4982,15 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 77.47 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "3224W-1-203E"
 			(at 77.47 64.77 0)
 			(effects
 				(font
@@ -5116,7 +5161,7 @@
 		(at 77.47 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "db394740-ecfa-403e-b109-f0019ab12ccb")
@@ -5222,6 +5267,15 @@
 			)
 		)
 		(property "Description" "USB Power-Only 6P Type-C Receptacle connector"
+			(at 31.75 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GT-USB-7010ASV"
 			(at 31.75 52.07 0)
 			(effects
 				(font
