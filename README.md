@@ -20,6 +20,15 @@ Excuse my poor soldering skills, this is just to give you an impression:
 
 <img src="https://github.com/user-attachments/assets/385b9643-3b24-4c29-9bfb-ddf059f51883" width="15%"></img> <img src="https://github.com/user-attachments/assets/cc952fc3-e7e5-4ab5-b2e9-72f8a259c800" width="15%"></img> <img src="https://github.com/user-attachments/assets/584890a5-4242-4916-8617-ddb8a6905483" width="15%"></img> <img src="https://github.com/user-attachments/assets/067b25cf-483f-48e4-88f3-1c7194757b1e" width="15%"></img> <img src="https://github.com/user-attachments/assets/d19b4f28-59f6-40a0-a1d9-12f750d532ca" width="15%"></img> <img src="https://github.com/user-attachments/assets/a1ee19fb-e466-4e0b-b12b-bc4929b7182f" width="15%"></img> 
 
+## Want one, too?
+
+I usually source parts for not just one unit. The PCB house also delivers at least three pieces as backups. 
+
+If you'd also like to have one of these builds, open an issue in this repo. I will check if I have all parts and the PCB in stock and let you know how much it will cost. 
+I have no intent to earn any money from these so I'll calculate the exact price based on my sourcing costs. 
+If you're curious, I can share these details upon request in the process.
+
+Payment needs to be done via GitHub sponsoring using a one-time donation. 
 
 This project has been prototyped at [AISLER](https://aisler.net/p/OOQHJCJK). 
 
